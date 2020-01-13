@@ -49,5 +49,6 @@
     "ssl": "bool",
     "certfile": "str?",
     "keyfile": "str?"
-  }
+  },
+  "image": "troykelly/{arch}-addon-hak5c2"  
 }

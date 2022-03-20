@@ -1,4 +1,5 @@
 #!/usr/bin/env bashio
+set -e
 
 LICENSE_KEY=$(bashio::config 'license.key')
 LOGGING=$(bashio::config 'logging')
